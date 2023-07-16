@@ -1,0 +1,12 @@
+-  Hi, I’m @Fynn1st
+-  I’m interested in Bio/Chemistry/Coding
+-  I’m currently learning Python and Kivy and going to study Biochemistry
+-  im pretty new to coding and actually dont really know how github works but I'll find out I guess
+-  probably will need some help for programming a small app that hopefully will help me in the lab
+
+
+
+<!---
+Fynn1st/Fynn1st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
